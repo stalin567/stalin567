@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I'm also learning full stack web developement**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
