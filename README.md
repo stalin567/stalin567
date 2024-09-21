@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stalin Vishwakarma</h1>
 <h3 align="center">I am a Computer Science graduate from AKS University, currently diving into DevOps and cloud technologies. With a passion for full-stack web development, I have hands-on experience with tools and languages including Linux, Git, Ansible, Jenkins, Python, SQL, Docker, Podman, and Java.</h3>
 
-- 🌱 I’m currently learning **Linux , git , Jenkins , ansible , docker , github, git , kubernetes, nginx, terraform , python , SQL**
+- 🌱 I’m currently learning **kubernetes, nginx, terraform , Trivy , Gitlab, Prometheus, grafana, Loki, ELK**
 
 - 👨‍💻 All of my projects are available at [github.com/stalinv567](github.com/stalinv567)
 
